@@ -51,8 +51,8 @@ header {
 .toDoList {
   background: linear-gradient(
     6deg,
-    rgba(74, 0, 209, 1) 0%,
-    rgba(22, 128, 179, 1) 98%
+    rgb(15, 117, 175) 0%,
+    rgb(255, 102, 0) 98%
   );
   width: 58%;
   min-height: 80px;
