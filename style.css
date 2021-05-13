@@ -17,8 +17,8 @@ header {
 .content {
   background: linear-gradient(
     90deg,
-    rgba(102, 126, 234, 1) 30%,
-    rgba(0, 158, 176, 1) 73%
+    rgb(0, 0, 0) 30%,
+    rgb(0, 0, 0) 73%
   );
   display: flexbox;
   flex-direction: column;
